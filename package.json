@@ -41,7 +41,7 @@
 	],
 	"dependencies": {
 		"glob": "^7.1.6",
-		"prepend-file": "github:borracciaBlu/node-prepend-file#feat/move-bom-character-top-of-file",
+		"prepend-file": "^2.0.0",
 		"rasper": "latest"
 	},
 	"devDependencies": {
